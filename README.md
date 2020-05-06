@@ -66,7 +66,13 @@ Here we have a one beautiful example for to understand the viewmodel concept in 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-![User Interface](https://drive.google.com/file/d/1fmgL7ennwjbkgpaLCq-3Wukhk6yOI0EP/view?usp=sharing)
+
+
+<img src ="https://github.com/mastan511/ViewModel/blob/master/Screenshot_2020-05-06-12-01-34-54_9fbf3a07fbf0be638fbcd6a96785d18f%5B1%5D.png?raw=true" width=200px height=300px>
+
+
+
+
 
 
 ##### MyViewModel.kt
